@@ -1,4 +1,4 @@
-# employee-attrition-analysis
+# Employee Attrition Analysis
 Full Stack HR Analytics System for Employee Attrition Analysis using React.js, Spring Boot, MySQL, and JWT Authentication.
 
 # Employee Attrition Analysis in Early-Stage Startups Using HR Analytics
